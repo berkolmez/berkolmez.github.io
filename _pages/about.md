@@ -13,13 +13,12 @@ profile:
     <p>9-240U,</p>
     <p>New York, NY 10010</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Berk—a researcher with a passion for optimizing real-world operations. Recently, I’ve been focused on multi-channel operations and exploring how emerging tech can drive meaningful impact. My work spans theoretical modeling, deep dives into data, and developing algorithms. I also have a special interest in quantum computing. I enjoy the challenge of transforming complex ideas into practical solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of work, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me biking around the city or on a run, discovering new paths. If that’s your thing too, feel free to follow me on [Strava](https://www.strava.com/athletes/144034223)!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
