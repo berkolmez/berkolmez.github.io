@@ -25,7 +25,7 @@
       "endDate": "Present",
       "score": "",
       "courses": [
-        "Thesis title: Multi-channel service delivery beyond boundaries"
+        "Thesis title: Managing Multi-Channel Service Operations"
       ]
     },
     {
@@ -84,72 +84,78 @@
       "startDate": "",
       "endDate": "Present",
       "highlights": ["Working paper"]
-    }
-  ],
-
-  "work": [
+    },
     {
-      "name": "Baruch College, CUNY",
-      "position": "Graduate Assistant",
+      "name": "From incentives to outcomes: the role of payment parity in shaping provider adoption and patient outcomes",
       "url": "",
-      "startDate": "2021-08-01",
+      "startDate": "",
       "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Instructor for the following course:", 
-        "Foundations of Predictive Analytics and Decision Modeling (QNT2020): Fall 24, Spring 24, Fall 23, Spring 23, Fall 22"
-      ]
-    },
-    {
-      "name": "New York City College of Technology, CUNY",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-09-01",
-      "highlights": ["Project Title: PFI-TT: Prototyping a quantum-powered AI building platform"],
-      "summary": "Assisted in developing benchmarks with convolutional neural networks to evaluate quantum computing algorithm performance."
-    },
-    {
-      "name": "Ozyegin University",
-      "position": "Teaching Assistant",
-      "url": "",
-      "startDate": "2018-09-01",
-      "endDate": "2021-06-01",
-      "summary": "",
-      "highlights": ["Teaching assistant for the following courses:",
-        "Mathematical Modelling and Exact Methods (IE342): Spring 20, Fall 20, Summer 19, Spring 19, Fall 18",
-        "Mathematical Modelling and Heuristic Methods (IE343): Spring 19, Fall 19",
-        "Optimization in Finance (IE361): Fall 20, Spring 21"
-      ]
-    },
-    {
-      "name": "Arçelik",
-      "position": "System Development and Logistics Project Student",
-      "url": "",
-      "startDate": "2018-03-01",
-      "endDate": "2018-08-01",
-      "summary": "Developed and optimized supply chain networks through custom algorithms, analyzed network performance, and translated insights into visual representations.",
-      "highlights": []
-    },
-    {
-      "name": "Henkel",
-      "position": "Lean Enterprise Intern",
-      "url": "",
-      "startDate": "2017-08-01",
-      "endDate": "2018-03-01",
-      "summary": "Assisted in implementing Lean methodologies across plant operations, including Value Stream Mapping, Improved Flow, Autonomous Maintenance, 5S, Visual Management, Quick Changeover, Kanban, and Standardized Work.",
-      "highlights": []
-    },
-    {
-      "name": "GE Aviation",
-      "position": "Engineering Design Technologies Intern",
-      "url": "",
-      "startDate": "2017-06-01",
-      "endDate": "2017-08-01",
-      "summary": "Provided project management support across ongoing projects.",
-      "highlights": []
+      "highlights": ["Working paper"]
     }
   ],
+  // "work": [
+  //   {
+  //     "name": "Baruch College, CUNY",
+  //     "position": "Graduate Assistant",
+  //     "url": "",
+  //     "startDate": "2021-08-01",
+  //     "endDate": "Present",
+  //     "summary": "",
+  //     "highlights": [
+  //       "Instructor for the following course:", 
+  //       "Foundations of Predictive Analytics and Decision Modeling (QNT2020): Fall 24, Spring 24, Fall 23, Spring 23, Fall 22"
+  //     ]
+  //   },
+  //   {
+  //     "name": "New York City College of Technology, CUNY",
+  //     "position": "Research Assistant",
+  //     "url": "",
+  //     "startDate": "2024-01-01",
+  //     "endDate": "2024-09-01",
+  //     "highlights": ["Project Title: PFI-TT: Prototyping a quantum-powered AI building platform"],
+  //     "summary": "Assisted in developing benchmarks with convolutional neural networks to evaluate quantum computing algorithm performance."
+  //   },
+  //   {
+  //     "name": "Ozyegin University",
+  //     "position": "Teaching Assistant",
+  //     "url": "",
+  //     "startDate": "2018-09-01",
+  //     "endDate": "2021-06-01",
+  //     "summary": "",
+  //     "highlights": ["Teaching assistant for the following courses:",
+  //       "Mathematical Modelling and Exact Methods (IE342): Spring 20, Fall 20, Summer 19, Spring 19, Fall 18",
+  //       "Mathematical Modelling and Heuristic Methods (IE343): Spring 19, Fall 19",
+  //       "Optimization in Finance (IE361): Fall 20, Spring 21"
+  //     ]
+  //   },
+  //   {
+  //     "name": "Arçelik",
+  //     "position": "System Development and Logistics Project Student",
+  //     "url": "",
+  //     "startDate": "2018-03-01",
+  //     "endDate": "2018-08-01",
+  //     "summary": "Developed and optimized supply chain networks through custom algorithms, analyzed network performance, and translated insights into visual representations.",
+  //     "highlights": []
+  //   },
+  //   {
+  //     "name": "Henkel",
+  //     "position": "Lean Enterprise Intern",
+  //     "url": "",
+  //     "startDate": "2017-08-01",
+  //     "endDate": "2018-03-01",
+  //     "summary": "Assisted in implementing Lean methodologies across plant operations, including Value Stream Mapping, Improved Flow, Autonomous Maintenance, 5S, Visual Management, Quick Changeover, Kanban, and Standardized Work.",
+  //     "highlights": []
+  //   },
+  //   {
+  //     "name": "GE Aviation",
+  //     "position": "Engineering Design Technologies Intern",
+  //     "url": "",
+  //     "startDate": "2017-06-01",
+  //     "endDate": "2017-08-01",
+  //     "summary": "Provided project management support across ongoing projects.",
+  //     "highlights": []
+  //   }
+  // ],
   "awards": [
     {
       "title": "Mills Tannenbaum Research Excellence Award",
