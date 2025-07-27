@@ -18,7 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Berk—a researcher with a passion for optimizing real-world operations. Recently, I’ve been focused on multi-channel operations and exploring how emerging tech can drive meaningful impact. My work spans theoretical modeling, deep dives into data, and developing algorithms. I also have a special interest in quantum computing. I enjoy the challenge of transforming complex ideas into practical solutions.
+*Keywords: Service Operations, Multi-Channel Operations, Stochastic Models*
 
-Outside of work, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me biking around the city or on a run, discovering new paths. If that’s your thing too, feel free to follow me on [Strava](https://www.strava.com/athletes/144034223)!
+Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. I explore these issues from multiple angles—from the provider's resource management to the customer's preferences and the impact of public policy. My work spans queueing models, data-driven approach, and developing algorithms. My goal is to develop insights that lead to more efficient and equitable service operations.
+
+Outside of research, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) discovering new bike paths.
+
+<!-- Hi, I’m Berk—a researcher with a passion for optimizing real-world operations. Recently, I’ve been focused on multi-channel operations and exploring how emerging tech can drive meaningful impact. My work spans theoretical modeling, deep dives into data, and developing algorithms. I also have a special interest in quantum computing. I enjoy the challenge of transforming complex ideas into practical solutions. -->
+
+<!-- Outside of work, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me biking around the city or on a run, discovering new paths. If that’s your thing too, feel free to follow me on [Strava](https://www.strava.com/athletes/144034223)! -->
 

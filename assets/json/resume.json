@@ -5,7 +5,7 @@
     "image": "",
     "email": "omerberk.olmez@baruch.cuny.edu",
     // "phone": "+1 646 750 0851",
-    "url": "https://berkolmez.github.io/",
+    // "url": "https://berkolmez.github.io/",
     // "summary": "PhD candidate in Operations and Decision Analytics, with research on multi-channel service delivery.",
     "location": {
       "address": "55 Lexington Ave, Department of Management, 9-290U",
@@ -76,17 +76,17 @@
       "url": "https://dx.doi.org/10.2139/ssrn.5147900",
       "startDate": "",
       "endDate": "Present",
-      "highlights": ["Working paper"]
+      "highlights": ["R&R at Manufacturing & Service Operations Management (M&SOM)"]
     },
     {
-      "name": "Understanding customer preferences for virtual versus in-person services",
+      "name": "Understanding Customer Preferences for Virtual Versus In-Person Services",
       "url": "",
       "startDate": "",
       "endDate": "Present",
       "highlights": ["Working paper"]
     },
     {
-      "name": "From incentives to outcomes: the role of payment parity in shaping provider adoption and patient outcomes",
+      "name": "Payment Parity Policies on Multi-Channel Healthcare",
       "url": "",
       "startDate": "",
       "endDate": "Present",

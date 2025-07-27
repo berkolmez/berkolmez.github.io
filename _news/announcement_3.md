@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-11 07:59:00-0400
+date: 2024-01-01 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Awarded with Mills Tannenbaum Research Excellence Award.
+Started working on an NSF funded project titled ''PFI-TT: Prototyping a quantum-powered AI building platform" as Research Assistant.
