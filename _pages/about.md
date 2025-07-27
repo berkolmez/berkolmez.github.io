@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 *Keywords: Service Operations, Multi-Channel Operations, Stochastic Models*
 
-Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. I explore these issues from multiple angles—from the provider's resource management to the customer's preferences and the impact of public policy. My work spans queueing models, data-driven approach, and developing algorithms. My goal is to develop insights that lead to more efficient and equitable service operations.
+Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems, I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both theory (queueing models) and data-driven approaches.
 
 Outside of research, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) discovering new bike paths.
 
