@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-*Keywords: Service Operations, Multi-Channel Operations, Stochastic Models*
+*Keywords: Service Operations, Healthcare Operations, Multi-Channel Operations, Stochastic Models*
 
 Hi, I’m Berk! I'm in the job market for the 2025-2026 academic year. My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems, I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both theory (queueing models) and data-driven approaches.
 
