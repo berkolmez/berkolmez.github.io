@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems, I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both theory (queueing models) and data-driven approaches.
 
-I will be joining the management faculty at TCNJ in Fall 2026.
+I will be joining The College of New Jersey as a tenure-track Assistant Professor of Operations Management in Fall 2026.
 
 Outside of research, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) discovering new bike paths.
 
