@@ -20,11 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 *Keywords: Service Operations, Healthcare Operations, Multi-Channel Operations, Stochastic Models*
 
-Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems, I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both theory (queueing models) and data-driven approaches.
+Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems. I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both queueing theory and data-driven approaches.
 
 I will be joining The College of New Jersey as a tenure-track Assistant Professor of Operations Management in Fall 2026.
 
-Outside of research, I enjoy art house films and love sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) discovering new bike paths.
+Outside of research, I enjoy watching movies and sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) cycling around nyc.
 
 <!-- Hi, I’m Berk—a researcher with a passion for optimizing real-world operations. Recently, I’ve been focused on multi-channel operations and exploring how emerging tech can drive meaningful impact. My work spans theoretical modeling, deep dives into data, and developing algorithms. I also have a special interest in quantum computing. I enjoy the challenge of transforming complex ideas into practical solutions. -->
 
