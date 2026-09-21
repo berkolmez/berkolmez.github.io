@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>2000 Pennington Road</p>
-    <p>Business Building, Room 115,</p>
+    <p>Business Building, Room 115</p>
     <p>Ewing, NJ, 08618</p>
 
 news: true # includes a list of news items
