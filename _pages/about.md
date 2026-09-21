@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://zicklin.baruch.cuny.edu/academic-programs/doctoral/areas-of-study/operations-and-decision-analytics/'>Baruch College, Zicklin School of Business, CUNY</a>. 
+subtitle: Assistant Professor at <a href='https://business.tcnj.edu/business-faculty/omerberk-olmez/'>The College of New Jersey</a>. 
 
 profile:
   align: right
   image: profile_pic.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>55 Lexington Ave,</p>
-    <p>9-240U,</p>
-    <p>New York, NY 10010</p>
+    <p>2000 Pennington Road</p>
+    <p>Business Building, Room 115,</p>
+    <p>Ewing, NJ, 08618</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 *Keywords: Service Operations, Healthcare Operations, Multi-Channel Operations, Stochastic Models*
 
-Hi, I’m Berk! My research focuses on the operational challenges that arise when providers offer services both in-person and online. To develop insights that lead to more efficient and equitable service systems. I explore these issues from multiple angles—the provider's, the customer's, and the policymaker's—using both queueing theory and data-driven approaches.
+Hi, I’m Berk! I’m an Assistant Professor of Operations Management at The College of New Jersey.
 
-I will be joining The College of New Jersey as a tenure-track Assistant Professor of Operations Management in Fall 2026.
+My research examines how service systems change when organizations deliver services through both in-person and digital channels. I’m particularly interested in how these choices affect providers, customers, and policymakers, and how operational decisions and public policies shape access and service delivery. I study these questions using analytical models, including queueing theory, as well as empirical and data-driven methods.
 
 Outside of research, I enjoy watching movies and sharing my takes on [Letterboxd](https://letterboxd.com/berkolmez/). You might also find me on [Strava](https://www.strava.com/athletes/144034223) cycling around nyc.
 

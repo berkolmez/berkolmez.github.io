@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-01-01 16:11:00-0400
+date: 2025-5-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Started working on an NSF funded project titled ''PFI-TT: Prototyping a quantum-powered AI building platform" as Research Assistant.
+Presented my work *Customer Behavior in Multi-Channel Services* at **36th POMS Conference 2026** in Reno, NV.
+

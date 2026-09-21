@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-28 15:59:00-0400
+date: 2026-08-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented my work *Pooling Physical and Virtual Services* at **2025 INFORMS MSOM Conference** in London, UK.
+Joined The College of New Jersey School of Business as an **Assistant Professor of Operations Management**.
