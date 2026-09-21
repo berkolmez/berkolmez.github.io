@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at <a href='https://business.tcnj.edu/business-faculty/omerberk-olmez/'>The College of New Jersey</a>. 
+subtitle: Assistant Professor at <a href='https://business.tcnj.edu/business-faculty/omer-berk-olmez/'>The College of New Jersey</a>. 
 
 profile:
   align: right
